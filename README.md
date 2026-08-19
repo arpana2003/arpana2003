@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Arpana Rai
 **A Full Stack Developer **
 
-Email Me 👉 ✉️ **arpanarai019.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **arpanarai019@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 💬 **Ask me about:** Collaboration
 - 📫 **How to reach me:** arpanarai019@gmail.com
