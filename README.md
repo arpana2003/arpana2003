@@ -6,9 +6,13 @@
 Email Me 👉 ✉️ **arpanarai019@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 -**I’m currently working on**: Full-stack web development projects using JavaScript, React, Node.js, Express.js, MongoDB, REST APIs, and Redux, while strengthening my DSA problem-solving skills for software development roles.
+
 -**I’m currently learning**: Advanced JavaScript, backend development with Node.js and Express.js, REST API design, authentication & authorization, database management, and core computer science concepts including DSA, OOP, DBMS, and system design fundamentals.
+
 -**I’m looking to collaborate on**: Full-stack and backend-focused projects, especially those involving MERN stack applications, RESTful APIs, authentication systems, payment integrations, database-driven applications, and scalable web solutions.
+
 -**I’m looking for help with**: Backend architecture, system design fundamentals, production-level coding practices, API optimization, database design, and building scalable and maintainable full-stack applications.
+
 -**Ask me about**: C++, DSA, SQL, REST APIs, Git/GitHub, and Web Development.
 -**How to reach me**: arpanarai019@gmail.com
 -**Fun fact**: I enjoy solving challenging problems and turning ideas into simple, practical solutions.
